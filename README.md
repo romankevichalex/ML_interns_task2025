@@ -22,7 +22,7 @@ I chose **deepseek-ai/DeepSeek-R1-Distill-Llama-70B-free** because it offers:
 - **Free API access**, suitable for budget-friendly projects.
 - **Lightweight distillation** of Llama-70B, reducing resource usage while keeping strong performance.
 
-# How the Application Works
+# How the application Works
 
 This app uses **Gradio** to provide a graphical interface for text input and output.
 
